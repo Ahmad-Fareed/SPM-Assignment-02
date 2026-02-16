@@ -29,3 +29,5 @@ The project demonstrates Agile workflow using **Jira** integrated with **GitHub*
 6. Track progress via Jira development panel.
 
 ## Repository Structure
+
+##change made for task6
