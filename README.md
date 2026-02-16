@@ -31,4 +31,4 @@ The project demonstrates Agile workflow using **Jira** integrated with **GitHub*
 ## Repository Structure
 
 ##change made for task6
-##switched to logout branch
+##switched to logout branchs
